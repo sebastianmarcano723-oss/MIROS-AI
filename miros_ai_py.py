@@ -8,7 +8,7 @@ Original file is located at
 
 
 
-!pip install -q streamlit langchain-google-genai langchain pypdf pillow
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
